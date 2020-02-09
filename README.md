@@ -16,6 +16,12 @@ I will add new features to this program very soon :)
 
 # Usage 
 
-Use 'python generator.py' to generate ransomware.
+Use `python generator.py` to generate ransomware.
 
-Use 'python decrypt.py' to decrypt files.
+Use `python decrypt.py` to decrypt files.
+
+# Note
+
+You will need to install "pyinstaller" to compile the generated file into exe.
+
+Use `pip install pyinstaller` to install pyinstaller.
