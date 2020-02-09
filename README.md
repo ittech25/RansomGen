@@ -16,5 +16,6 @@ I will add new features to this program very soon :)
 
 # Usage 
 
-python generator.py 
-python decrypt.py
+Use 'python generator.py' to generate ransomware.
+
+Use 'python decrypt.py' to decrypt files.
